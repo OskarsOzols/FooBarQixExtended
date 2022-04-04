@@ -34,3 +34,5 @@ If number have several multiples, they appear in natural order (Foo, Bar).
 We will return the given number as a string if there is no transformation to do.
 
 Once this step is complete, read and do [step 2](./step_2.md).
+
+README update
